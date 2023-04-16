@@ -1,1 +1,19 @@
-
+{
+  "data": [
+    {
+      "name": "John Doe",
+      "age": 30,
+      "gender": "Male"
+    },
+    {
+      "name": "Jane Smith",
+      "age": 25,
+      "gender": "Female"
+    },
+    {
+      "name": "Michael Brown",
+      "age": 35,
+      "gender": "Male"
+    }
+  ]
+}
